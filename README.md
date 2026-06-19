@@ -20,7 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
+```
 import matplotlib.pyplot as plt
 import numpy as np
 import math
@@ -69,7 +69,7 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line', 'Data points'])
 plt.grid(True)
 plt.show()
-
+```
 # Output :
 
 <img width="688" height="434" alt="image" src="https://github.com/user-attachments/assets/b4f368ed-d2a3-481f-a963-64f97802cf9d" />
